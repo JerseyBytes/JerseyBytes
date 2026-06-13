@@ -1,3 +1,12 @@
+# Hi, I'm a Senior Software Architect 👋
+
+Senior Software Architect and Backend Engineer with 20+ years of experience designing high-throughput APIs, cloud-native distributed systems, and enterprise data repositories.
+
+- 🏗️ **Core Focus:** Event-driven architecture, microservices design patterns, and zero-trust security.
+- ☁️ **Cloud Specialist:** Deep experience engineering highly available, resilient infrastructure in Azure.
+- 🔒 **Side Projects:** Currently architecting production-grade, self-hosted secure data vaults.
+
+
 ### 💻 Core Tech Stack & Backend Architecture
 
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -99,3 +108,14 @@
 ### 🏥 Healthcare Platforms
 
 ![Trizetto Facets](https://img.shields.io/badge/Trizetto_Facets-0078D4?style=for-the-badge)
+
+### 📊 Git Metrics & Language Analytics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=JerseyBytes&show_icons=true&theme=radial&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerseyBytes&layout=compact&theme=radial&hide_border=true&langs_count=6" alt="Top Languages" height="180" />
+</p>
+
+### 📈 Contribution Graph
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_ACTUAL_USERNAME&theme=radial&hide_border=true)
