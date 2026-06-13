@@ -118,4 +118,4 @@ Senior Software Architect and Backend Engineer with 20+ years of experience desi
 
 ### 📈 Contribution Graph
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_ACTUAL_USERNAME&theme=radial&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JerseyBytes&theme=radial&hide_border=true)
